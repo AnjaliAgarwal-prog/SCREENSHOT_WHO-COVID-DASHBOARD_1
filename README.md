@@ -34,6 +34,6 @@ Representation of Total Vaccinations by Years and Months using Stacked Bar Chart
 
 #     https://github.com/AnjaliAgarwal-prog/SCREENSHOT_WHO-COVID-DASHBOARD_1/blob/main/Screenshot_COVID_2.png
 
-#     
+#     https://github.com/AnjaliAgarwal-prog/SCREENSHOT_WHO-COVID-DASHBOARD_1/blob/main/Screenshot_COVID_3.png
 
 
